@@ -7,7 +7,7 @@ import Product from './Product.jsx'
 createRoot(document.getElementById('root')).render(
 <StrictMode>
 {/*<App/>*/}
-<Welcome name= "Bhawana"/>
+<Welcome name= "James"/>
 <Product productName="Laptop" price={800} />
 </StrictMode>
 )
